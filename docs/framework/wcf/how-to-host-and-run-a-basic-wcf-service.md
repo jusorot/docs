@@ -38,7 +38,7 @@ In this tutorial, you learn how to:
 
     3. In the **Solution Explorer** window, select the **GettingStarted** solution (top node), and then select **Add** > **New Project** from the shortcut menu.
 
-    4. In the **Add New Project** window, on the left side, select the **Windows Desktop** category under **Visual C#** or **Visual Basic**.
+    4. In the **Add New Project** window, on the left side, select the **Windows Console** category under **Visual C#** or **Visual Basic**.
 
     5. Select the **Console App (.NET Framework)** template, and enter *GettingStartedHost* for the **Name**. Select **OK**.
 
